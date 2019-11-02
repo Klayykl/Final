@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">个人日记本</string>
+    <string name="action_settings">退出登录</string>
+
+
+    <string name="txt1">登录</string>
+    <string name="txt2">用户名</string>
+    <string name="txt3">密码</string>
+    <string name="txt4">重置用户名密码</string>
+    <string name="txt5">Settings</string>
+
+
+    <string name="edit1">输入用户名</string>
+    <string name="edit2">输入密码</string>
+    <string name="edit3">说说想说的吧</string>
+    <string name="edit4">用户名</string>
+    <string name="edit5">密码</string>
+    <string name="edit6">Settings</string>
+
+    <string name="button1">登录</string>
+    <string name="button2">仅文字</string>
+    <string name="button3">添加图片</string>
+    <string name="button4">保存</string>
+    <string name="button5">取消</string>
+    <string name="button6">删除</string>
+    <string name="button7">返回</string>
+    <string name="button8">重置</string>
+
+
+</resources>
